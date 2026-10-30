@@ -26,7 +26,7 @@ Open to Voice AI and real-time conversational AI roles.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShupoShupoShrimp/ShupoShupoShrimp/main/assets/sleepy-yachiyo.gif" width="240" alt="Yachiyo sleeping" />
+<img src="https://raw.githubusercontent.com/ShupoShupoShrimp/ShupoShupoShrimp/main/assets/sleepy-yachiyo.gif" width="480" alt="Yachiyo sleeping" />
 
 <code>VAD Gate: CLOSED | Silero RMS: 0.0000 | Stable Prefix: 0 words | Awaiting frame ingress (t0)</code>
 
