@@ -34,7 +34,7 @@ Open to Voice AI and real-time conversational AI roles.
 
 ## Featured project
 
-### LunarStream
+### [LunarStream](https://github.com/ShupoShupoShrimp/lunar-stream)
 
 A voice-first, multimodal AI VTuber agent. Status: **in design**.
 
